@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This org consists of a batch of ROS1 PX4 drone onboard autonomy code. It has been tested on XI35 quadrotor with Jetson Orin NX.
 
 
 **Here are some ideas to get you started:**
