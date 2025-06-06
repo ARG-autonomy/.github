@@ -2,6 +2,11 @@
 
 This org consists of a batch of ROS1 PX4 drone onboard autonomy code. It has been tested on XI35 quadrotor with Jetson Orin NX.
 
+Main contact: RoboDD
+
+Internal member who want to contribute frequent used code pls drop me an email.
+
+Bests,
 
 **Here are some ideas to get you started:**
 
@@ -12,4 +17,3 @@ This org consists of a batch of ROS1 PX4 drone onboard autonomy code. It has bee
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-Main contact: RoboDD
